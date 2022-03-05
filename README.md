@@ -10,4 +10,4 @@ GitHub Repo URL:
 
 ## Site Image
 
-![alt text](https://github.com/bennettem/code-refactor/blob/main/Develop/assets/images/site.png)
+![alt text](https://github.com/bennettem/code-refactor/blob/main/Develop/assets/images/mockup.png)
