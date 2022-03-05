@@ -6,7 +6,8 @@ While working with this code I found many lines to be redundant and consolidated
 
 ## Site Location
 
-GitHub Repo URL:
+GitHub Repo URL: https://github.com/bennettem/code-refactor
+URL:
 
 ## Site Image
 
